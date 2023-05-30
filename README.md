@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 🌱 I am from FZU
+- 👯 I am interested in web frontend techniques
+- HTML, CSS, JavaScript, TypeScript
+- Vue and React
 <!--
 **csq200505/csq200505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
